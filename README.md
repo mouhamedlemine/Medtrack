@@ -1,16 +1,31 @@
-# medtrack
+# MedTrack
 
-A new Flutter project.
+MedTrack is a Flutter prototype designed to help doctors manage patient records and appointments in a simple and organized way.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Add new patients
+- View patient list
+- Store medical conditions and notes
+- Schedule appointments
+- View appointments list
+- Clean and responsive UI
 
-A few resources to get you started if this is your first Flutter project:
+## Project Goal
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+This project demonstrates a simple digital solution for small clinics to manage patients and appointments without relying on paper records.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The focus of this prototype is:
+
+- Clean Flutter UI
+- Structured code
+- Simple clinic workflow
+
+## Tech Stack
+
+- Flutter
+- Dart
+
+## Notes
+
+This project is a prototype created for a technical challenge and is not intended for production medical use.
