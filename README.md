@@ -67,7 +67,7 @@ Its purpose is to present the concept, interface structure, and development appr
 
 ## 👨‍💻 Author
 
-**Mohamed Lemine**
+**Mohamed Lemine Elmehdi**
 
 GitHub Repository:  
 [MedTrack](https://github.com/mouhamedlemine/Medtrack)
